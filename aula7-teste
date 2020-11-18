@@ -1,0 +1,5 @@
+#/bin/bash
+
+echo All aruments with "*" $*
+
+echo All arguments with @ $@
